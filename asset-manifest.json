@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/burhan/static/css/main.5f361e03.chunk.css",
+    "main.js": "/burhan/static/js/main.45a44028.chunk.js",
+    "main.js.map": "/burhan/static/js/main.45a44028.chunk.js.map",
+    "runtime-main.js": "/burhan/static/js/runtime-main.20a4c57b.js",
+    "runtime-main.js.map": "/burhan/static/js/runtime-main.20a4c57b.js.map",
+    "static/js/2.034578d6.chunk.js": "/burhan/static/js/2.034578d6.chunk.js",
+    "static/js/2.034578d6.chunk.js.map": "/burhan/static/js/2.034578d6.chunk.js.map",
+    "index.html": "/burhan/index.html",
+    "precache-manifest.917b8021d916e0de27ad24b9600e7e34.js": "/burhan/precache-manifest.917b8021d916e0de27ad24b9600e7e34.js",
+    "service-worker.js": "/burhan/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/burhan/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.034578d6.chunk.js.LICENSE.txt": "/burhan/static/js/2.034578d6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/burhan/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20a4c57b.js",
+    "static/js/2.034578d6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.45a44028.chunk.js"
+  ]
+}
